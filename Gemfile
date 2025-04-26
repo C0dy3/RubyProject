@@ -28,7 +28,8 @@ gem "solid_cache"
 gem "solid_queue"
 gem "solid_cable"
 
-gem "tailwindcss-rails"
+
+gem 'faker'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
@@ -63,3 +64,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "tailwindcss-ruby", "~> 4.1"
+
+gem "tailwindcss-rails", "~> 3.1"
