@@ -311,8 +311,8 @@ GEM
     tailwindcss-rails (3.1.0)
       railties (>= 7.0.0)
       tailwindcss-ruby
-    tailwindcss-ruby (4.1.4-x64-mingw-ucrt)
-    tailwindcss-ruby (4.1.4-x86_64-linux-gnu)
+    tailwindcss-ruby (4.1.5-x64-mingw-ucrt)
+    tailwindcss-ruby (4.1.5-x86_64-linux-gnu)
     thor (1.3.2)
     thruster (0.1.13)
     thruster (0.1.13-x86_64-linux)
